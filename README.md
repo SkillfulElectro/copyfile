@@ -1,6 +1,6 @@
 # copyfile
-app to copy file
+App to Copy Files
 
-how to use : call the application via your Powershell or cmd
+To use this app, simply call it through your Powershell or cmd.
 
-source will be published soon after tests
+The source code will be published soon after test sessions finish!
